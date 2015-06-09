@@ -1,2 +1,7 @@
-# hello-world
-Just another repository
+hello-world
+
+============
+
+Hi humans!
+
+Hubot here, I like JavaScript.
